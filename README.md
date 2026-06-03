@@ -1,16 +1,27 @@
-## Hi there 👋
+# Felipe Walker
 
-<!--
-**felipewkx/felipewkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence | System Development | Audiovisual
 
-Here are some ideas to get you started:
+## 🪪 Professional Profile
+Systems Developer focused on the alignment between Artificial Intelligence, Software Engineering, and Audiovisual production. Experienced in building robust, scalable solutions with a strong emphasis on user experience, converting complex business requirements into high-performance functional applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+
+### 1. Orion Coldres — Commercial Catalog Platform
+Development of a digital platform for product exhibition and cataloging for the Orion Coldres store. The project prioritized navigation optimization, fast loading speeds, and an intuitive interface designed for user conversion and engagement.
+*   **Live Project:** [orioncoldres.lovable.app](https://orioncoldres.lovable.app)
+
+### 2. Professional Website — Psychologist Fernanda Walker
+Creation and implementation of the institutional website for Psychologist Fernanda. Developed with a strict focus on accessibility, clean information architecture, and SEO optimization to enhance professional visibility within the healthcare niche.
+*   **Live Project:** [psiferwalker.vercel.app](https://psiferwalker.vercel.app)
+
+## 🛠️ Core Expertise & Competencies
+*   **System Development:** Software architecture, frontend/backend development, API integration, and deployment workflows.
+*   **Artificial Intelligence:** Model implementation, process automation, and data analysis applied to computational systems.
+*   **Audiovisual:** Media concept integration, image/video processing, and user-centered interface design.
+
+## ✉️ Contact & Connect
+For project proposals, collaborations, or professional opportunities, feel free to reach out:
+
+*   **LinkedIn:** [linkedin.com/in/felipewkx](https://linkedin.com/in/felipewkx)
+*   **Instagram:** [instagram.com/dev.felipewkx](https://instagram.com/dev.felipewkx)
