@@ -2,7 +2,7 @@
 
 ### Artificial Intelligence | System Development | Audiovisual
 
-## 🪪 Professional Profile
+## Professional Profile
 Systems Developer focused on building high-performance, scalable applications by bridging the gap between Artificial Intelligence, Vibe Coding, and UX/UI design. Experienced in audiovisual production, I bring a unique, creative lens to software development—translating complex business logic into intuitive, visually engaging, and functional digital solutions.
 
 ## 📂 Featured Projects
