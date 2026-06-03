@@ -13,7 +13,7 @@ Development of a digital platform for product exhibition and cataloging for the 
 
 ### 2. Professional Website — Psychologist Fernanda Walker
 Creation and implementation of the institutional website for Psychologist Fernanda. Developed with a strict focus on accessibility, clean information architecture, and SEO optimization to enhance professional visibility within the healthcare niche.
-*   **Live Project:** [psiferwalker.vercel.app](https://psiferwalker.vercel.app)
+*   **Live Project:** [psicoferwalker.vercel.app](https://psicoferwalker.vercel.app)
 
 ## 🛠️ Core Expertise & Competencies
 *   **System Development:** Software architecture, frontend/backend development, API integration, and deployment workflows.
