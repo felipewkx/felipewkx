@@ -7,13 +7,17 @@ Systems Developer focused on building high-performance, scalable applications by
 
 ## 📂 Featured Projects
 
-### 1. Orion Coldres — Commercial Catalog Platform
+### 1. Orion Coldres - Commercial Catalog Platform
 Development of a digital platform for product exhibition and cataloging for the Orion Coldres store. The project prioritized navigation optimization, fast loading speeds, and an intuitive interface designed for user conversion and engagement.
 *   **Live Project:** [orioncoldres.lovable.app](https://orioncoldres.lovable.app)
 
-### 2. Professional Website — Psychologist Fernanda W.
+### 2. Professional Website - Psychologist Fernanda W.
 Creation and implementation of the institutional website for Psychologist Fernanda. Developed with a strict focus on accessibility, clean information architecture, and SEO optimization to enhance professional visibility within the healthcare niche.
 *   **Live Project:** [psicoferwalker.vercel.app](https://psicoferwalker.vercel.app)
+
+### 3. FIFA World Cup 2026 - Simulator
+Interactive Sports Web App Development of a dynamic web application for simulating soccer tournament brackets and match results. The project focused on responsive UI/UX design, real-time data processing, and highly engaging user interactivity.
+*   **Live Project:** [worldcupsimulator26.netlify.app](https://worldcupsimulator26.netlify.app)
 
 ## 🛠️ Core Expertise & Competencies
 *   **System Development:** Software architecture, frontend/backend development, API integration, and deployment workflows.
