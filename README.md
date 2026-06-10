@@ -4,24 +4,15 @@
 
 Systems Developer bridging the gap between **AI, Vibe Coding, and UX/UI Design**. With a background in audiovisual production, I combine creative aesthetics with robust logic to build high-performance, scalable, and visually engaging digital solutions. 🚀
 
----
-
-## 🛠️ Core Expertise
-* 💻 **System Development:** Architecture, full-stack workflows, API integration, and deployment.
-* 🤖 **Artificial Intelligence:** Model implementation, automation, and data analysis.
-* 🎬 **Audiovisual:** Video editing, video/image/audio processing, and user-centered experience.
-
----
-
 ## 📂 Featured Projects
 
-### 🎯 [Orion Coldres](https://orioncoldres.lovable.app)
-Commercial catalog platform optimized for fast loading, intuitive navigation, and high user conversion.
+### 🎯 Orion Coldres
+https://orioncoldres.lovable.app
+Commercial catalog platform.
 
-### 🧠 [Fernanda W. - Psicóloga](https://psicoferwalker.vercel.app)
-Institutional website focused on accessibility, clean information architecture, and advanced SEO for the healthcare niche.
-
----
+### 🧠 Fernanda W. - Psicóloga
+https://psicoferwalker.vercel.app
+Professinal website.
 
 ## ✉️ Let's Connect!
 Open for collaborations, project proposals, and professional opportunities.
