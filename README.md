@@ -2,7 +2,7 @@
 
 ### Artificial Intelligence | System Development | Audiovisual
 
-Technology professional with over a decade of experience bridging Audiovisual Production and Software Development. Focused on Artificial Intelligence, Front-End Development, and UX/UI Design, I leverage modern prompt engineering to streamline workflows, automate processes, and build efficient, scalable, and user-centered digital products. My background in Audiovisual Production (Ulbra), Systems Development (SENAC), and Artificial Intelligence (UFMS) enables me to combine creativity, technical expertise, and user experience to deliver innovative digital solutions. 🚀
+Tech professional with over a decade of experience integrating multimedia and code. Focused on AI, Front-End, and UX/UI, I leverage modern prompts to program and optimize processes, automate workflows, and develop efficient, scalable, and intuitive digital products. My academic degrees in Audiovisual Production and Artificial Intelligence, combined with a certification in Systems Development, allow me to blend creativity, logic, and user experience into innovative solutions. 🚀
 ## ✉️ Let's Connect!
 Open for collaborations, project proposals, and professional opportunities.
 
