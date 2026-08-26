@@ -2,7 +2,7 @@
 
 ### Artificial Intelligence | System Development | Audiovisual
 
-Tech professional with over a decade of experience integrating multimedia and code. Focused on AI, Front-End, and UX/UI, I leverage modern prompts to program and optimize processes, automate workflows, and develop efficient, scalable, and intuitive digital products. My academic degrees in Audiovisual Production and Artificial Intelligence, combined with a certification in Systems Development, allow me to blend creativity, logic, and user experience into innovative solutions. 🚀
+Originally from Campo Grande - MS, I work globally as an audiovisual producer, multimedia manager, and programmer. My focus is using artificial intelligence to build engaging projects. I specialize in front-end development and UX/UI design to turn ideas into easy-to-use digital products. Backed by my studies in audiovisual production, AI, and systems development, I blend creative design with technical skill to deliver smart, complete solutions. 🚀
 ## ✉️ Let's Connect!
 Open for collaborations, project proposals, and professional opportunities.
 
